@@ -1,0 +1,9 @@
+Description:
+This program, inspired by Dr. Terry Griffin's work, loads data from a Json file.
+It utilizes getch to search for values within this data. 
+The program establishes an interactive session within the console. 
+Users can input letters and receive autosuggestions. It displays the number of matches and the search time based on the user's input. 
+Additionally, it presents a list of matches (up to 10).
+
+Code for project : https://replit.com/@InukaHulathduwa/3013-P02-Starter#main.cpp
+
